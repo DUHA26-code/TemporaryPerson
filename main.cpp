@@ -1,5 +1,5 @@
 #include "mainwindow.h"
-
+#include "click.h"
 #include <QApplication>
 #include <QLocale>
 #include <QTranslator>
@@ -17,7 +17,9 @@ int main(int argc, char *argv[])
             break;
         }
     }
-    MainWindow w;
+    // Sửa lại vì ưu tiên click rồi mới tới mainwindow
+    Click w;
     w.show();
+
     return a.exec();
 }
