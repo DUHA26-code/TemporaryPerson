@@ -1,0 +1,13 @@
+D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/CMakeFiles/TemporaryPerson.dir
+D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/CMakeFiles/TemporaryPerson_lupdate.dir
+D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/CMakeFiles/update_translations.dir
+D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/CMakeFiles/TemporaryPerson_lrelease.dir
+D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/CMakeFiles/release_translations.dir
+D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/CMakeFiles/edit_cache.dir
+D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/CMakeFiles/rebuild_cache.dir
+D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/CMakeFiles/list_install_components.dir
+D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/CMakeFiles/install.dir
+D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/CMakeFiles/install/local.dir
+D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/CMakeFiles/install/strip.dir
+D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/CMakeFiles/TemporaryPerson_autogen_timestamp_deps.dir
+D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/CMakeFiles/TemporaryPerson_autogen.dir

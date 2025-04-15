@@ -1,0 +1,115 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-RelWithDebInfo-8f511dd4900d8e37c660.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TemporaryPerson",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TemporaryPerson::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TemporaryPerson-RelWithDebInfo-eb7aede852c6f5d8f052.json",
+					"name" : "TemporaryPerson",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TemporaryPerson_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TemporaryPerson_autogen-RelWithDebInfo-8e6af2e35444a800c8ad.json",
+					"name" : "TemporaryPerson_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TemporaryPerson_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TemporaryPerson_autogen_timestamp_deps-RelWithDebInfo-bef985fa5c63d6f5e239.json",
+					"name" : "TemporaryPerson_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TemporaryPerson_lrelease::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TemporaryPerson_lrelease-RelWithDebInfo-84dfd2f9f56a93de118d.json",
+					"name" : "TemporaryPerson_lrelease",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TemporaryPerson_lupdate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TemporaryPerson_lupdate-RelWithDebInfo-e53691590fb132a56e48.json",
+					"name" : "TemporaryPerson_lupdate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "release_translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-release_translations-RelWithDebInfo-842a9679caafbf56a332.json",
+					"name" : "release_translations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "update_translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-update_translations-RelWithDebInfo-65625e5d02ed5a87e03f.json",
+					"name" : "update_translations",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile",
+		"source" : "D:/TH_OOP/PROJECT/TemporaryPerson"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

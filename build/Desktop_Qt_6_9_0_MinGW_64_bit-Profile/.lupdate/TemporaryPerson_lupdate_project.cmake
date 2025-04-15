@@ -1,0 +1,11 @@
+set(lupdate_project_file "D:/TH_OOP/PROJECT/TemporaryPerson/CMakeLists.txt")
+set(lupdate_translations "D:/TH_OOP/PROJECT/TemporaryPerson/TemporaryPerson_vi_VN.ts")
+set(lupdate_include_paths "")
+set(lupdate_sources "")
+set(lupdate_subproject_count 1)
+
+set(lupdate_subproject1_source_dir "D:/TH_OOP/PROJECT/TemporaryPerson")
+set(lupdate_subproject1_include_paths "D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/TemporaryPerson_autogen/include;D:/TH_OOP/6.9.0/mingw_64/include/QtCore;D:/TH_OOP/6.9.0/mingw_64/include;D:/TH_OOP/6.9.0/mingw_64/mkspecs/win32-g++;D:/TH_OOP/6.9.0/mingw_64/include;D:/TH_OOP/6.9.0/mingw_64/include/QtWidgets;D:/TH_OOP/6.9.0/mingw_64/include;D:/TH_OOP/6.9.0/mingw_64/include/QtGui;D:/TH_OOP/6.9.0/mingw_64/include")
+set(lupdate_subproject1_sources "D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/TemporaryPerson_autogen/mocs_compilation.cpp;main.cpp;mainwindow.cpp;mainwindow.h;mainwindow.ui;D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/.qt/rcc/TemporaryPerson_translations.qrc;D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/TemporaryPerson_vi_VN.qm;D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/.qt/rcc/qrc_TemporaryPerson_translations.cpp;D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/TemporaryPerson_autogen/include/ui_mainwindow.h;D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/TemporaryPerson_autogen/timestamp;D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/TemporaryPerson_vi_VN.qm.rule;D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/.qt/rcc/qrc_TemporaryPerson_translations.cpp.rule;D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/TemporaryPerson_autogen/timestamp.rule")
+set(lupdate_subproject1_excluded "")
+set(lupdate_subproject1_autogen_dir "D:/TH_OOP/PROJECT/TemporaryPerson/build/Desktop_Qt_6_9_0_MinGW_64_bit-Profile/TemporaryPerson_autogen")
